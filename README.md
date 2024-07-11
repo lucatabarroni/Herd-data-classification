@@ -1,4 +1,5 @@
-# Herd-data-classification
+# Herd-data-classification post Agnostic Batcher
+
 Classification of Hadrons/Leptonic events
 
 The goal is the classification of Hadrons and Leptonic (protons vs electrons) events from Herd simulation data. The final step should be the classification of 3D images, but our starting point are 2 dimensional projections of protons and electrons. 
